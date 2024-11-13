@@ -1,0 +1,4 @@
+[submodule "husky"]
+	path = husky
+	url = https://github.com/Leewonchan14/Repository-Template
+	branch = husky
